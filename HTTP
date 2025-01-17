@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-book de Trading no EA FC 25</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link para um arquivo CSS externo -->
+    <style>
+        /* Estilos básicos para o site */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        .hero {
+            background: url('capa-ebook.jpg') no-repeat center center/cover;
+            color: white;
+            text-align: center;
+            padding: 100px 20px;
+        }
+        .btn {
+            background-color: #28a745;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 5px;
+        }
+        .section {
+            padding: 50px 20px;
+            text-align: center;
+        }
+        .section h2 {
+            font-size: 28px;
+            margin-bottom: 20px;
+        }
+        .benefits ul {
+            list-style: none;
+            padding: 0;
+        }
+        .benefits li {
+            margin: 10px 0;
+            font-size: 18px;
+        }
+        .testimonials {
+            background-color: #eee;
+        }
+        .testimonial {
+            font-style: italic;
+            margin: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Trading Básico no EA FC 25</h1>
+        <nav>
+            <a href="#home">Home</a> | 
+            <a href="#sobre">Sobre</a> | 
+            <a href="#beneficios">Benefícios</a> | 
+            <a href="#testemunhos">Testemunhos</a> | 
+            <a href="#compra">Compra</a>
+        </nav>
+    </header>
+
+    <!-- Seção de Introdução -->
+    <section class="hero">
+        <h2>Aprenda o Básico do Trading no EA FC 25</h2>
+        <p>Descubra como investir de maneira inteligente no mercado de jogadores e maximinizar seus lucros no jogo!</p>
+        <a href="#compra" class="btn">Adquira seu E-book agora</a>
+    </section>
+
+    <!-- Seção Sobre o E-book -->
+    <section id="sobre" class="section">
+        <h2>O que você vai aprender</h2>
+        <p>Este e-book foi feito para jogadores que querem entender como realizar negócios no mercado de transferências do EA FC 25 de forma simples e eficaz. Desde as estratégias básicas até as dicas mais avançadas para garantir lucros constantes no jogo.</p>
+        <ul>
+            <li>Como identificar bons investimentos no mercado</li>
+            <li>Dicas para maximizar seus lucros com jogadores específicos</li>
+            <li>Estratégias para o longo prazo no mercado de Trading</li>
+            <li>Erros comuns e como evitá-los</li>
+        </ul>
+    </section>
+
+    <!-- Seção de Benefícios -->
+    <section id="beneficios" class="section">
+        <h2>Por que você precisa deste E-book?</h2>
+        <div class="benefits">
+            <ul>
+                <li>Acessível: Explicações claras e diretas.</li>
+                <li>Eficaz: Estratégias que podem ser aplicadas no curto e longo prazo.</li>
+                <li>Especializado: Focado no Trading dentro do universo EA FC 25.</li>
+                <li>Prático: Exemplos reais de como maximizar suas transações.</li>
+                <li>Atualizado: Estratégias que funcionam na versão mais recente do jogo.</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Seção de Testemunhos -->
+    <section id="testemunhos" class="section testimonials">
+        <h2>O que outros jogadores estão dizendo</h2>
+        <div class="testimonial">
+            <p>"Este e-book foi um divisor de águas para mim no EA FC 25. Com as estratégias simples e objetivas, consegui melhorar meu desempenho no mercado!" – João, jogador experiente.</p>
+        </div>
+        <div class="testimonial">
+            <p>"Eu sempre tive dificuldades para entender o Trading, mas agora minhas transações estão gerando muito mais lucro! Vale cada centavo." – Maria, novata no Trading.</p>
+        </div>
+    </section>
+
+    <!-- Seção de Compra -->
+    <section id="compra" class="section">
+        <h2>Adquira seu E-book agora</h2>
+        <p>Por um preço acessível, você terá acesso a todo o conhecimento necessário para dominar o Trading no EA FC 25 e alcançar lucros impressionantes no jogo.</p>
+        <p><strong>Preço: R$XX,XX</strong></p>
+        <a href="https://www.kiwify.com.br/seu-link" class="btn">Compre agora no Kiwify</a>
+    </section>
+
+    <!-- Rodapé -->
+    <footer>
+        <p>&copy; 2025 Seu Nome | Todos os direitos reservados</p>
+    </footer>
+
+</body>
+</html>
